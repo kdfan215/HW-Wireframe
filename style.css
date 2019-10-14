@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+}
+
+a {
+  /* float: right; */
+  color: purple;
+  text-align: right;
+  border-left: 2px solid black;
+  margin-right: 20px;
+  padding: 20px;
+}
+
+.navbar {
+  background-color: black;
+  /* width: 100%; */
+  margin: 0;
+  top: 0;
+  /* float: left; */
+}
+
+body {
+  font-family: Arial;
+  color: black;
+  background-color: gold;
+  margin: 0;
+}
+
+.float {
+  float: right;
+}
+
+nav {
+  /* display: block; */
+  padding: 3px;
+}
+
+.title {
+  color: purple;
+  display: inline;
+  background-color: black;
+  font-size: 35px;
+  padding-bottom: 1px;
+}
+
+.main {
+  background-color: purple;
+  width: 100%;
+  margin-top: 30px;
+}
+
+header {
+  background-color: white;
+}
+
+p {
+  text-align: left;
+}
+
+img {
+  display: inline;
+  width: 20%;
+  height: 20%;
+}
+
+.short {
+  text-align: left;
+  color: white;
+}
+
+.bio {
+  margin-top: 30px;
+  color: white;
+}
+
+hr {
+  margin-bottom: 1px;
+}
+
+#go {
+  text-align: center;
+}
+
+#magic {
+  padding: 20px;
+  margin-left: 492px;
+}
+
+#thank {
+  text-align: center;
+}
+
+/* div = section = article */
+#johnson {
+  text-align: center;
+  margin-top: 15px;
+}
